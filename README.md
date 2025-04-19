@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **visanu1996/visanu1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
