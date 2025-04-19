@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 
 ## Hello there, First of all my name is Visany Sanyalak
-I'm currently living in Thailand, Bangkok.
-Employed by Aware Corporation Limited as an outsourced staff, currently assigned to work at AIS.
-for now  I'm learning Shell/Bash Script, Python for automate project and more like robotframework  selenium/appium (Automate Tester)
+<p>I'm currently living in Thailand, Bangkok.</p>
+<p>Employed by Aware Corporation Limited as an outsourced staff, currently assigned to work at AIS.</p>
+<p>for now  I'm learning Shell/Bash Script, Python for automate project and more like robotframework  selenium/appium (Automate Tester)</p>
 
 ### Skills
 
