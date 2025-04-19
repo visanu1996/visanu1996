@@ -25,17 +25,20 @@ for now  I'm learning Shell/Bash Script, Python for automate project and more li
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/robotframework.svg" alt="Robot Framework" width="40" height="40"/>
 </p>
-- Robotframework Selenium. 
-- Robotframework Appium. 
+Robotframework Selenium. 
+Robotframework Appium. 
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
-- Python. 
+Python. 
+
 <p align="left">
-  - JS for automate test. (getting locator.) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </p>
+JS for automate test. (getting locator.)
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
 </p>
-- Shell/Bash script. 
+Shell/Bash script. 
