@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 - Robot Framework with Selenium  
 - Robot Framework with Appium  
 - Python scripting  
-- JavaScript (for test automation like locator grabbing)  
+- JavaScript (automate test)  
 - Shell/Bash scripting
