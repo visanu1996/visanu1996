@@ -29,8 +29,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
 </p>
 
-- Robot Framework with Selenium  
-- Robot Framework with Appium  
-- Python scripting  
+- Robot Framework for DB, Web browser and mobile application. (request,selenium,browser,appium) 
+- Python (automate test)  
 - JavaScript (automate test)  
 - Shell/Bash scripting
