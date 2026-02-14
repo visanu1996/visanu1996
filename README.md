@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello there, First of all my name is Visany Sanyalak
+## Hello there, First of all my name is Visanu Sanyalak
 <p>Based in Bangkok, Thailand, with 4 years of experience in the IT field.</p>
 <p>I'm currently working as automated tester at AIS.</p>
 <p>I recently discovered my passion for scripting and automation, 
@@ -26,6 +26,7 @@ and my goal is to become a successful Automation Tester / Automate QA Engineer w
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/robotframework.svg" alt="Robot Framework" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
 </p>
 
