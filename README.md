@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 -->
 
 ## Hello there, First of all my name is Visany Sanyalak
-<p>I'm currently based in Bangkok, Thailand.</p>
-<p>Employed by Aware Corporation Limited as an outsourced staff, currently assigned to work at AIS.</p>
-<p>for now  I'm learning Shell/Bash Script, Python for automate projects and more like robotframework  selenium/appium (Automate Tester)</p>
-<p>I have just found that I do have a passions for scripting and automated things, and always eager to learn new languages or tools that is neccessaries for my current posistion</p>
+<p>Based in Bangkok, Thailand, with 4 years of experience in the IT field.</p>
+<p>I'm currently working as automated tester at AIS.</p>
+<p>I recently discovered my passion for scripting and automation, 
+and my goal is to become a successful Automation Tester / Automate QA Engineer who delivers high-quality software.</p>
 
 ### Skills
 
@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 
 - Robot Framework for DB, Web browser and mobile application. (request,selenium,browser,appium) 
 - Python (automate test)  
-- JavaScript (automate test)  
+- JavaScript/TypeScript (automate test)  
 - Shell/Bash scripting
