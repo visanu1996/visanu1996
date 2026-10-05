@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Hello there, First of all my name is Visanu Sanyalak
 <p>Moved to Hongkong in Sep 16 2026, with over 5 years of experience in the IT field.</p>
-<p>I was previously worked as automation tester at AIS.</p>
+
 <p>I recently discovered my passion for scripting and automation, 
 and my goal is to become a successful Automation Tester / Automate QA Engineer who delivers high-quality software.</p>
 
